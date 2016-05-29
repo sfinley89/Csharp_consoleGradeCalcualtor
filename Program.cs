@@ -54,7 +54,7 @@ namespace w4iLabProj
             else if (studentPercent < .6)
             {
                 letterGrade = "F";
-                 
+                Console.WriteLine("Your first name is " + firstName + ". Your last name is " + lastName + ". Your score was " + studentScore + ". Your percent is " + studentPercent + ". Your letter grade is " + letterGrade); 
             }
             
 
